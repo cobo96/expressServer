@@ -1,0 +1,22 @@
+{
+  "name": "repository",
+  "version": "1.0.0",
+  "description": "Express server assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobo96/expressServer.git"
+  },
+  "author": "cmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobo96/expressServer/issues"
+  },
+  "homepage": "https://github.com/cobo96/expressServer#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
